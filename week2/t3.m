@@ -1,0 +1,9 @@
+p1=true
+p2=true
+p3=false
+p4=false
+q1=true
+q2=false
+q3=true
+q4=false
+k=[p1 q1 ~p1 ~p1^q1 ~(~p1^q1);p2 q2 ~p2 ~p2^q2 ~(~p2^q2);p3 q3 ~p3 ~p3^q3 ~(~p3^q3);p4 q4 ~p4 ~p4^q4 ~(~p4^q4)]
